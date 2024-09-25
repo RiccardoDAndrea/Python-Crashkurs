@@ -4,7 +4,7 @@ Dep. Variable:                   wage   R-squared:                       0.266
 Model:                            OLS   Adj. R-squared:                  0.264
 Method:                 Least Squares   F-statistic:                     120.2
 Date:                Wed, 25 Sep 2024   Prob (F-statistic):           2.06e-66
-Time:                        12:12:51   Log-Likelihood:                -3089.0
+Time:                        12:59:50   Log-Likelihood:                -3089.0
 No. Observations:                 998   AIC:                             6186.
 Df Residuals:                     994   BIC:                             6206.
 Df Model:                           3                                         
