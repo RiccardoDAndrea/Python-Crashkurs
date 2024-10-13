@@ -66,22 +66,43 @@ Nach der Mittagspause einführung in Packages
 2. Verfeinern mit matplotlib
 3. Visualisierung abspeichern
 
-
-
-
 # Dienstag
 
 **Recap von Montag**
+
 Basics / Packages Pandas Seaborn
 Pandas und Seaborn Matplotlib
 
 *Umgang mit Fehlermeldungen*
+
 - Stackoverflow 
 - Youtube 
 - LLMs wie Gemini, ChatGPT, Perplexity usw.
 - Googeln
 
 
+### Skit learn und Statsmodels
+
+Kurze Unterscheidung von folgenden Bereiche:
+
+- KI 
+    KI beschreibt ein Algoithmus der selbstständige 
+
+- Machine Learning 
+    Eingabe von Daten mit bekannten Zusammenhängen x,y,z wo wir hoffen es gibt ein Zusammenhang
+    Somit wir die Daten später auf unbekannte Zusammenhönge anzuwende können.
+    *Logitische Regression:* Spam filter, Zahlungsfallrisiko
+    *Lineare Regression:* Umsatz 
+    Aus diesen Daten lernt ML und trifft fundierte Entscheidungen. Es besteht aus einer Sammlung von mathematischen Verfahren zur Mustererkennung.
+    Diese Verfahren erkennen Muster, indem sie Datensätze bestmöglich in hierarchische Strukturen zerlegen (z.B. Entscheidungsbäume, Regression, KNN). Maschinelles Lernen erfordert komplexe Mathematik und Programmierung (oft Python), um die gewünschten Funktionen und Ergebnisse zu erzielen.
+
+- Deep Learning 
+    
+Berufswelt:
+
+- Data Engeener 
+- Data Analyst 
+- Data Scientist
 
 
 
