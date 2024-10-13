@@ -95,9 +95,10 @@ Kurze Unterscheidung von folgenden Bereiche:
     *Lineare Regression:* Umsatz 
     Aus diesen Daten lernt ML und trifft fundierte Entscheidungen. Es besteht aus einer Sammlung von mathematischen Verfahren zur Mustererkennung.
     Diese Verfahren erkennen Muster, indem sie Datensätze bestmöglich in hierarchische Strukturen zerlegen (z.B. Entscheidungsbäume, Regression, KNN). Maschinelles Lernen erfordert komplexe Mathematik und Programmierung (oft Python), um die gewünschten Funktionen und Ergebnisse zu erzielen.
-
+https://datasolut.com/machine-learning-vs-deep-learning/
+https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide
 - Deep Learning 
-    
+
 Berufswelt:
 
 - Data Engeener 
