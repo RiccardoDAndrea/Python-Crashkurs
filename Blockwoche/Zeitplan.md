@@ -31,8 +31,8 @@
         Linux
             Link:
 
-Google Colab
--
+### Google Colab
+
 Für heute arbeiten wir mit Google Colab, somit können alle mit programmieren und für Dienstag den 22.10. sollen alle bitte ein IDE haben da sie sonst nicht mit folgen können. 
 - Falls es schwierigkeiten gibt bei der Instalation können wir gerne Dienstag den 22.10 es zusammen versuchen.
 
@@ -44,15 +44,15 @@ Besprechung des *Leitfadens.ipynb* das sie das nützen können als Stütze, fall
 - *Github Link*
     Link: https://github.com/RiccardoDAndrea/Python-Crashkurs
 
-Weiterhin werden wir zu den Leitfaden aufgaben bearbeiten. 
-Python_basic.ipynb
+Weiterhin werden wir zu den Leitfaden aufgaben bearbeiten
+*Python_basic.ipynb*
 
 *Mittagspause können Sie sich aussuchen entweder 12 oder 13 Uhr*
 
 Nach der Mittagspause einführung in Packages 
 
-Pandas
----
+### Pandas
+
 1. Instalation 
 2. Importieren
 3. Dokumentation 
@@ -60,13 +60,17 @@ Pandas
 4. Statische Informationen wiedergeben der Daten (df.info, df.shape, df.describe) 
 5. Daten filterung
 
-Seaborn / Matplotlib
----
+### Seaborn / Matplotlib
+
 1. Visualisierung aufbauen
 2. Verfeinern mit matplotlib
 3. Visualisierung abspeichern
 
+
+
+
 # Dienstag
+
 **Recap von Montag**
 Basics / Packages Pandas Seaborn
 Pandas und Seaborn Matplotlib
@@ -76,4 +80,8 @@ Pandas und Seaborn Matplotlib
 - Youtube 
 - LLMs wie Gemini, ChatGPT, Perplexity usw.
 - Googeln
+
+
+
+
 
